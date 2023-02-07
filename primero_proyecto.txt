@@ -1,0 +1,12 @@
+Nombre: Santiago Valencia
+
+Edad = 20
+
+para inicializar un repocitorio usar --> git init
+
+para saber el estado del coomit es -->  git status
+
+git commit -m "nombre de lo guardado"
+
+git config --list -->  ver tu configuracion de git
+
